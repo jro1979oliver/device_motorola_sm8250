@@ -54,6 +54,7 @@ vendor/lib/libAndroidAlgSys.so
 vendor/lib/libaudcal.so
 vendor/lib/libc++_shared.so
 vendor/lib/libqtigef.so
+vendor/lib/libMAM2_3-AlgFX-Coretex_A9.so
 vendor/lib/soundfx/libmaxxeffect-cembedded.so
 vendor/lib/soundfx/libmmieffectswrapper.so
 vendor/lib/soundfx/libspeakerbundle.so
