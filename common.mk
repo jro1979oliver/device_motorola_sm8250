@@ -466,10 +466,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)
 
-# Subsystem state notifier
-PRODUCT_PACKAGES += \
-    subsystem_state_notifier
-
 # Telephony
 PRODUCT_PACKAGES += \
     MotoNrEnabler \

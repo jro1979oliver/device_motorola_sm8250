@@ -1,4 +1,0 @@
-service vendor.subsystem_state_notifier.esoc0 /vendor/bin/subsystem_state_notifier esoc0
-    class late_start
-    user system
-    group system
